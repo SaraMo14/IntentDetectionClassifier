@@ -14,6 +14,7 @@ dataset consists of two parts:
 - Audio files: audio samples in .wav format
 - Metadata: files .csv that contain information about each
 audio sample in the dataset and about its speaker.
+
 The dataset provided is composed of 11,309 recordings (.wav)
 of user queries with English pronunciation. The metadata have
 been distributed in two separate collections:
