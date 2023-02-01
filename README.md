@@ -1,4 +1,4 @@
-# IntentDetectionClassifier
+# Intent Detection Classifiers
 Machine Learning approaches to User Intent Detection
 We introduce two possible Machine
 Learning approaches to address the problem of intent detection.
