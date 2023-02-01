@@ -22,6 +22,7 @@ been distributed in two separate collections:
 for which the intent is known;
 - an evaluation set, containing 1,455 records of recordings
 without the target variable.
+
 We used the development set to build a classification model
 capable of classifying user intentions for each record of the
 evaluation set.
